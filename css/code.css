@@ -1,18 +1,18 @@
 /* programming */
 
 .projects-highlight {
-  border: 3px solid transparent;
   margin-top: 3rem;
   background-color: var(--sexy-grey-light);
+  transition: all .2s ease-in-out;
 }
 
 .projects-highlight:hover {
-  border: 3px solid var(--sexy-greenblue);
-  box-shadow: 0px 0px 20px var(--sexy-greenblue);
+  box-shadow: 0px 0px 40px var(--sexy-greenblue);
+  transform: scale(1.05);
 }
 
 .program-preview-box {
-  width: 300px;
+  width: 260px;
   height: 180px;
   margin-left: 15px;
   margin-right: 15px;

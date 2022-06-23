@@ -66,13 +66,6 @@ h2 {
   margin-top: 20px;
 }
 
-audio {
-  background-color: var(--sexy-grey-light);
-  border-color: transparent;
-  border-radius: 40px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
 
 .standalone-pic {
   border: 10px solid #222221;
