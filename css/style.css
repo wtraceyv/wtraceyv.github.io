@@ -69,6 +69,15 @@ h3 {
   margin-top: 10px;
 }
 
+li {
+  color: #446585;
+}
+
+li a {
+  margin-left: 0;
+  font-size: 1em;
+}
+
 .standalone-pic {
   border: 10px solid #222221;
 }
