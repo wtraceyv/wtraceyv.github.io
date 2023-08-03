@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code-projects on </title>
+    
+    
+    
+    <link>/code-projects/</link>
+    <description>Recent content in Code-projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="/code-projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/code-projects/dorkbash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/dorkbash/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           dorkbash # A (very irresponsible) zork-like game written only in Bash
+Dumb practice with shell language. Turns out you can do some bizarre things with a shell language, and it definitely teaches you to vet &amp;ldquo;bugs&amp;rdquo; because you&amp;rsquo;re leveraging features no should probably use.
+GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/code-projects/focustube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/focustube/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           focustube # A streamlined YouTube experience in React
+In order to brush up on my React skills, I decided to make essentially a YouTube clone, but that intends to let the user search only for needed videos, queue them, and watch them without the added distraction of external ads and the recommendation algorithm.
+Written in React Bootstrap, gh-pages, some npm utilities in the background Mobile first responsive YouTube Data API v3 and IFrame embedded API Live on GitHub pages GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/code-projects/gravitygame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/gravitygame/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Gravity Game # A work in progress physics-aware, space-themed FPS in Godot
+This has been a good opportunity to work with someone else remotely, think about pipeline optimizations/version control, learn new tools, and play more with multiplayer programming. I have implemented simple multiplayer in the Unity engine, but at this point in Godot the only way is to start with RPC calls, which are lower level than built-in replication systems of Unity or Unreal.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/code-projects/harmonyv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/harmonyv/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           Harmony V # A work in progress monophonic harmonizer plugin
+There are many methods of pitch detection and shifting one could use, and the plugins I mean to emulate likely employ trade secrets that had an R&amp;amp;D team to produce, so this one is a slow challenge.
+C++ Juce audio framework GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/code-projects/infilerefactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/infilerefactor/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           Infile Refactor # Python CLI/GUI tool to find/replace but in multiple files within a file system (resursively)
+Really nice for when file paths or variable names have changed and you want to fix it in one sweep without relying on an IDE or some other system.
+Python 3 PySide 6 (for QT gui) GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
