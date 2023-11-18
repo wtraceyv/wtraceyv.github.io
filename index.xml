@@ -39,6 +39,27 @@ Education # UCHS, Liberty, IN &amp;ndash; Core 40 Honors 2017, Class Valedictori
     
     <item>
       <title></title>
+      <link>/code-projects/airdroop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/airdroop/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           airdroop # A simple Python/web setup for sharing links or directly downloading files from any desktop OS to any other device.
+Simple Flask API in Python SQLite DB Dumb custom Python &amp;ldquo;templating&amp;rdquo; to generate HTML (see &amp;ldquo;bundle&amp;rdquo; files) HTML/CSS/JS Minor shell scripting GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/code-projects/dorkbash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -160,8 +181,8 @@ Python 3 PySide 6 (for QT gui) GitHub See the code on GitHub
         
         
         
-           Code Projects # Projects which may or may not display my skills and interests
-focustube # Gravity Game # dorkbash # Harmony V # Infile Refactor # Tooling I have used # Web General Purpose APIs and Libraries Game Engines 
+           Code Projects # Projects which may or may not display my skills and interests in computers
+focustube # Infile Refactor # Air Droop # Harmony V # Gravity Game # dorkbash # Tooling I have used # Web General Purpose APIs and Libraries Game Engines 
           
         
         </description>
@@ -181,9 +202,8 @@ focustube # Gravity Game # dorkbash # Harmony V # Infile Refactor # Tooling I ha
         
         
         
-          Music Examples # Hello there
-Come back later
-I&amp;rsquo;ll put something here I promise
+           Music Examples # Recording experiments of any variety
+Cover of Girl Inform Me by The Shins A jam I did to test guitar and drum setups at the time Another Shins cover of The Fear (Flipped) 
           
         
         </description>

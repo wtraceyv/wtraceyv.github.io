@@ -15,6 +15,27 @@
     
     <item>
       <title></title>
+      <link>/code-projects/airdroop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-projects/airdroop/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           airdroop # A simple Python/web setup for sharing links or directly downloading files from any desktop OS to any other device.
+Simple Flask API in Python SQLite DB Dumb custom Python &amp;ldquo;templating&amp;rdquo; to generate HTML (see &amp;ldquo;bundle&amp;rdquo; files) HTML/CSS/JS Minor shell scripting GitHub See the code on GitHub 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/code-projects/dorkbash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
